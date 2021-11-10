@@ -832,10 +832,14 @@ section{
       width: calc(50% - 20px);
       font-size: smaller;
     }
+    .hacker-image{
+      
+      width:70%;
+      height: 70%;
+    }
     
-  
     .content img {
       margin-top: 0;
-      visibility: hidden;
+      /* visibility: hidden; */
     }
   }
